@@ -1,6 +1,5 @@
 
 <h1> 
-
 <img src=" https://ik.imagekit.io/kvzzmwfdiyz/113017846-47a2d200-9156-11eb-9460-fb4e0d02bbf6_LxgCp8dqi.png">
 </h1>
 
@@ -31,5 +30,4 @@ $ yarn install
 $ yarn start
 
 ```
-=======
 
