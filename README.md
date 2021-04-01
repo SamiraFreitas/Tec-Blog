@@ -5,7 +5,6 @@
 - [Índice](#índice)
 - [📝 Sobre](#-sobre)
 - [👾 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [- CSS](#--css)
 - [💻 Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 📝 Sobre 
@@ -14,8 +13,9 @@ O projeto TecBlog é um blog que foi criado dentro do curso [Desenvolvimento Web
 ---
 ## 👾 Tecnologias Utilizadas 
 O projeto foi desenvolvido utilizando as seguintes tecnologias 
-- HTML 
+- HTML  
 - CSS
+
   ---
 ## 💻 Como baixar o projeto 
 - Faça o download dos arquivos
