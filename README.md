@@ -1,6 +1,3 @@
-
-![picasion com_a179e6f341e71bef9fe5961002454899](https://user-images.githubusercontent.com/73719899/112873833-88d4ac80-9098-11eb-8fdb-563c4cd71533.gif)
-
 ## Índice
 - [📝 Sobre](#-sobre)
 - [👾 Tecnologias Utilizadas](#-tecnologias-utilizadas)
@@ -19,3 +16,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## 💻 Como baixar o projeto 
 - Faça o download dos arquivos
 - Abra o index.html
+---
+
+![picasion com_a179e6f341e71bef9fe5961002454899](https://user-images.githubusercontent.com/73719899/112873833-88d4ac80-9098-11eb-8fdb-563c4cd71533.gif)
